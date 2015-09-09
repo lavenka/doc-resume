@@ -6,17 +6,17 @@
 
 **Операционные системы**: основной: linux (с 2008 (ubuntu), openSUSE с 2011), windows (с 1993), DOS (с 1988)
 
-**Специализация**: проектирование, написание фреймворков, глобальные оптимизации и рефакторинг, полные или ступенчатые миграции, multithreading
+**Специализация**: проектирование и разработка, написание фреймворков, code review, глобальные оптимизации и рефакторинг, миграции, multithreading
 
 > Обычно на большинстве проектов я один занимался исправлением ошибок связанных со стыками с DLL, с многопоточной работой (в том числе с блокировками БД); проводил крупные миграции, рефакторинг и чистку кода.
 
-**Активный отдых**: горный велосипед, longboard, snowboard, беговые лыжи.
+**Активный отдых**: горный велосипед, longboard, snowboard.
 
-**mail**: speakingfish@gmail.com, lantalia@mail.ru
+**Mail**: speakingfish@gmail.com, lantalia@mail.ru
 
 **Место жительства**: Москва.
 
-**Соцсети**: <http://habrahabr.ru/users/speakingfish/>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>, <http://govnokod.ru/user/1825/codes>
+**В сети**: <https://github.com/speaking-fish>, <http://habrahabr.ru/users/speakingfish/>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>, <http://govnokod.ru/user/1825/codes>
 
 **Некоторые работы в свободное от основной работы время**:
 
@@ -26,11 +26,13 @@
 
 #Работы
 
-##2012-2015 РусТелеСис <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
+##2012-2015 РусТелеСис
+
+**Ссылки**: <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
  
 **Специализация**: Распознавание автомобильных номеров.
 
-**Должность**: участие в стартапе как главный разработчик и архитектор.
+**Должность**: участие в этом стартапе как главный разработчик и архитектор.
 
 **Языки программирования**: java, c++, object pascal(delphi, lazarus)
 
@@ -54,13 +56,9 @@ x86 -> ARM
 
 Глобальная чистка кода.
  
-Переход от простых указателей на различные автоматические.
-
-Замена жестких связей на обмен событиями.
+Разделение на слабосвязанные модули, выделение фасадов. 
 
 Переработка тредов на управляемые workers и очереди.
-
-Выделение фасадов.
 
 Унификация XML и двоичных представлений (see <https://github.com/speaking-fish/doc-sf-ssp>).
 
@@ -70,7 +68,10 @@ x86 -> ARM
 
 **Крупные клиенты**:
 
-* АСКТ <http://ackt.ru> по Москва-сити, вокзалы в Москве и Казани
+* АСКТ <http://ackt.ru>:
+** Подземная парковка АФИМОЛЛ в Москва-Сити на 3700 машиномест <http://afimall.ru/ru/page/about/>
+** Парковка Киевского и Павелецкого вокзалов в Москве
+** Парковка Ледового дворца спорта в Казани (800 машиномест) <http://tatneftarena.ru/arena/o-ledovom-dvortse.html>
 
 * Госструктуры некоторых областей
 
@@ -104,7 +105,7 @@ java, oracle(+lite), sybase, swing, replication
 
 GUI hell -> MVC, functional-reactive
 
-исправления и ускорение всей работы с multithreading, database locks
+исправления и ускорение всей работы с multithreading
 
 исправления всей работы с database transaction/locking
 
@@ -138,9 +139,9 @@ java, web, oracle
 
 Генератор отчетов для MS Excel: java, delphi 5-7, VBA, firebird.
 
-Логическая структура данных и объединение источников данных с сервера приложений: java + GUI клиент (delphi).
+Описание структур данных на базе существующих или новых источников данных, объединение источников данных, операции над данными: application server (java) + GUI клиент (delphi).
 
-Микро-скриптовый язык для преобразования параметров на клиенте/сервере и functional-reactive управления формами.
+Микро-скриптовый язык для преобразования данных на сервере (операции над источниками данных) и на клиенте (операции над источниками данных и functional-reactive управления формами).
 
 Язык разметки для шаблонов в Excel.
 
@@ -148,7 +149,7 @@ java, web, oracle
  
 Пользовательские расширения с помощью формул в Excel VBA.
 
-Описание <https://github.com/speaking-fish/archive/blob/master/reporter/reporter.ru.txt>
+Примерное описание <https://github.com/speaking-fish/archive/blob/master/reporter/reporter.ru.txt>
 
 ##2000-2004 Кворум <http://www.quorum.ru/>
 
@@ -157,6 +158,8 @@ java, web, oracle
 **Должность**: ведущий системный программист.
 
 **Языки программирования**: java, delphi 1-5, borland pascal 7, assembler, c++
+
+**Key features**: heavy WinAPI, DLL, COM, 16/32bit, oracle, multithreading, communications, reverse engineering
 
 **Крупные проекты**:
 
@@ -172,7 +175,7 @@ java, web, oracle
 
 Стык с ККМ и утилиты для работы/отладки.
 
-Тотальная чистка кода АБС Кворум. (mem cleanup, mem check, null pointers, access violations, multithreading, locks, total static initialization/finalization fixes, 16-bit issues fixes, compatibility fixes, code simplification)
+Тотальная чистка кода АБС Кворум. (mem cleanup, mem check, null pointers, access violations, multithreading, locks, total static initialization/finalization fixes, 16-bit issues fixes, compatibility fixes, code simplification, assembler removal/fixes, etc.)
 
 Экспериментальная GUI-обертка над консольной АБС Кворум.
 
