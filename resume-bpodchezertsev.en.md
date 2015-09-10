@@ -230,7 +230,7 @@ User support.
 
 * Internal storage support system. Delphi.
 
-* Utilities for financial document covertations, parsing, union, generation, printing etc.
+* Utilities for financial document convertations, parsing, union, generation, printing etc.
 
 
 ##1996-1998 Prais Telecom
