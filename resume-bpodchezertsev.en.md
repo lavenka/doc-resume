@@ -14,7 +14,7 @@
 
 **City**: Moscow, Russia.
 
-**Networks**: <https://github.com/speaking-fish>, <http://habrahabr.ru/users/speakingfish/>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>
+**Networks**: <https://github.com/speaking-fish>, <http://habrahabr.ru/users/speakingfish>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>
 
 **Some freelance jobs**:
 
@@ -68,7 +68,7 @@ Unite network nodes with rabbitmq.
 
 * ASKT <http://ackt.ru>:
 
-1. AFIMALL underground parking (2700 parking places) in "Moscow-city" (Moscow International Business Center) <http://afimall.ru/en/page/about/>
+1. AFIMALL underground parking (2700 parking places) in "Moscow-city" (Moscow International Business Center) <http://afimall.ru/en/page/about>
 2. Kievsky & Paveletsky railway terminal's parkings in Moscow
 3. Kazan Ice Palace "Tatneft-Arena" parking (800 parking place) <http://tatneftarena.ru/arena/o-ledovom-dvortse.html>
 
@@ -76,7 +76,7 @@ Unite network nodes with rabbitmq.
 
 ##2005-2011 Tops Business Integrator
 
-**Links**: <http://www.topsbi.ru/>
+**Links**: <http://www.topsbi.ru>
 
 **Specialization**: Software development
 
@@ -88,7 +88,7 @@ Unite network nodes with rabbitmq.
 
 **Large projects**:
 
-###RosGosStrakh <http://www.rgs.ru/>: RGS-AUTO: Car insurance system, desktop GUI
+###RosGosStrakh <http://www.rgs.ru>: RGS-AUTO: Car insurance system, desktop GUI
 
 java, oracle(+lite), sybase, swing, replication
 
@@ -114,19 +114,19 @@ Lazy calculations
 
 Migration to generics
 
-###MosEnergo <http://www.mosenergo.ru/>: WEB-GIS.
+###MosEnergo <http://www.mosenergo.ru>: WEB-GIS.
 
-java, javascript, web, RIA, GIS, oracle, COM, using renderer (no tiled interface was supported in that time) from <http://www.resident.ru/> (Yandex.Maps provider)
+java, javascript, web, RIA, GIS, oracle, COM, using renderer (no tiled interface was supported in that time) from <http://www.resident.ru> (Yandex.Maps provider)
 
 The project is mainly made by me
 
-###Alfa-Insurance <http://www.alfastrah.ru/>: WEB-client for Unicus insurance system <http://www.systematic.ru/unicus.html>
+###Alfa-Insurance <http://www.alfastrah.ru>: WEB-client for Unicus insurance system <http://www.systematic.ru/unicus.html>
 
 java, web, oracle
 
 Fully made by me part: DB-layer
 
-##2003-2005 BSS/BFT <http://www.bssys.com/>, <http://www.bftcom.com/>
+##2003-2005 BSS/BFT <http://www.bssys.com>, <http://www.bftcom.com>
 
 **Specialization**: Budget and financial software.
 
@@ -152,7 +152,7 @@ Description sample <https://github.com/speaking-fish/archive/blob/master/reporte
 
 ##2000-2003 Quorum
 
-**Links**: <http://www.quorum.ru/>
+**Links**: <http://www.quorum.ru>
 
 **Specialization**: Banking software.
 
@@ -188,7 +188,7 @@ Application server + GUI-client: delphi GUI client (GUI without business logic) 
 
 ##1999 Altey Laboratories
 
-**Links**: <http://www.altey.ru/>
+**Links**: <http://www.altey.ru>
 
 **Specialization**: Clinical Laboratory Automation.
 
@@ -210,7 +210,7 @@ User support.
 
 * Development of interchange software modules for Moscow polyclinic #129. Setup hardware. User support.
 
-* Software and hardware works in some medical organizations: Moscow Medicina Clinic <http://en.medicina.ru/>, Moscow polyclinic #220, etc.
+* Software and hardware works in some medical organizations: Moscow Medicina Clinic <http://en.medicina.ru>, Moscow polyclinic #220, etc.
 
 ##1998-1999 Commercial bank «FINROS» Financial Initiative
 
@@ -235,7 +235,7 @@ User support.
 
 ##1996-1998 Prais Telecom
 
-**Links**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat/> <http://www.aboutphone.info/lib/WireLesson2.html>
+**Links**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat> <http://www.aboutphone.info/lib/WireLesson2.html>
 
 **Specialization**: Telecommunication systems development.
 
@@ -261,7 +261,7 @@ User support.
 
 ##1992-1995 MSMU (Moscow State Mining University), Department of Surveying and Geology
 
-**Links**: <http://msmu.misis.ru/index.php/ru/>
+**Links**: <http://msmu.misis.ru/index.php/ru>
 
 **Specialization**: Automation geological and surveying works.
 
@@ -287,7 +287,7 @@ Fully implemented by me:
 
 ##1987-1991 Moscow Instrument-building 	Technical College
 
-**Links**: <http://mpt.ru/>
+**Links**: <http://mpt.ru>
 
 **Profession**: technician-mathematician-programmer
 

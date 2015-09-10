@@ -16,7 +16,7 @@
 
 **Место жительства**: Москва.
 
-**В сети**: <https://github.com/speaking-fish>, <http://habrahabr.ru/users/speakingfish/>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>, <http://govnokod.ru/user/1825/codes>
+**В сети**: <https://github.com/speaking-fish>, <http://habrahabr.ru/users/speakingfish>, <https://twitter.com/bpodchezertsev>, <https://plus.google.com/112013112860760105731/posts/p/pub>, <http://govnokod.ru/user/1825/codes>
 
 **Некоторые работы в свободное от основной работы время**:
 
@@ -70,7 +70,7 @@ x86 -> ARM
 
 * АСКТ <http://ackt.ru>:
 
-1. Подземная парковка АФИМОЛЛ в Москва-Сити на 3700 машиномест <http://afimall.ru/ru/page/about/>
+1. Подземная парковка АФИМОЛЛ в Москва-Сити на 3700 машиномест <http://afimall.ru/ru/page/about>
 2. Парковка Киевского и Павелецкого вокзалов в Москве
 3. Парковка Ледового дворца спорта в Казани (800 машиномест) <http://tatneftarena.ru/arena/o-ledovom-dvortse.html>
 
@@ -78,7 +78,7 @@ x86 -> ARM
 
 ##2005-2011 Tops Business Integrator
 
-**Ссылки**: <http://www.topsbi.ru/>
+**Ссылки**: <http://www.topsbi.ru>
 
 **Специализация**: Разработка ПО
 
@@ -90,7 +90,7 @@ x86 -> ARM
 
 **Крупные проекты**:
 
-###РосГосСтрах <http://www.rgs.ru/>: RGS-AUTO: GUI-клиент для автострахования
+###РосГосСтрах <http://www.rgs.ru>: RGS-AUTO: GUI-клиент для автострахования
 
 java, oracle(+lite), sybase, swing, replication
 
@@ -116,19 +116,19 @@ GUI hell -> MVC, functional-reactive
 
 миграция на generics
 
-###МосЭнерго <http://www.mosenergo.ru/>: WEB-ГИС.
+###МосЭнерго <http://www.mosenergo.ru>: WEB-ГИС.
 
-java, javascript, web, RIA, GIS, oracle, COM, надстройка над рендерером (готового веб-интерфейса тогда не было) от АО "Резидент" <http://www.resident.ru/> (поставщик карт Яндекса)
+java, javascript, web, RIA, GIS, oracle, COM, надстройка над рендерером (готового веб-интерфейса тогда не было) от АО "Резидент" <http://www.resident.ru> (поставщик карт Яндекса)
 
 Проект в основном выполнен мной
 
-###Альфа-Страхование <http://www.alfastrah.ru/>: WEB-клиент для системы Unicus <http://www.systematic.ru/unicus.html>
+###Альфа-Страхование <http://www.alfastrah.ru>: WEB-клиент для системы Unicus <http://www.systematic.ru/unicus.html>
 
 java, web, oracle
 
 Полностью выполнено мною: DB-layer
 
-##2003-2005 БСС/БФТ <http://www.bssys.com/>, <http://www.bftcom.com/>
+##2003-2005 БСС/БФТ <http://www.bssys.com>, <http://www.bftcom.com>
 
 **Специализация**: Бюджетно-финансовое ПО.
 
@@ -152,7 +152,7 @@ java, web, oracle
 
 Примерное описание <https://github.com/speaking-fish/archive/blob/master/reporter/reporter.ru.txt>
 
-##2000-2003 Кворум <http://www.quorum.ru/>
+##2000-2003 Кворум <http://www.quorum.ru>
 
 **Специализация**: Банковское ПО.
 
@@ -188,7 +188,7 @@ java, web, oracle
 
 ##1999 Алтей
 
-**Ссылки**: <http://www.altey.ru/>
+**Ссылки**: <http://www.altey.ru>
 
 **Специализация**: Автоматизация клинических исследований.
 
@@ -210,7 +210,7 @@ java, web, oracle
 
 * Разработка модуля синхронизации лаборатории с бухгалтерией для поликлиники №129. Установка и наладка оборудования. Работа с пользователями.
 
-* Программно-аппаратные работы в различных организациях: АО Медицина, ПК №220, и др.
+* Программно-аппаратные работы в различных организациях: АО Медицина <http://www.medicina.ru>, ПК №220, и др.
 
 ##1998-1999 КБ «ФИНРОС» Финансовая инициатива
 
@@ -235,7 +235,7 @@ java, web, oracle
 
 ##1996-1998 Праис Телеком
 
-**Ссылки**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat/> <http://www.aboutphone.info/lib/WireLesson2.html>
+**Ссылки**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat> <http://www.aboutphone.info/lib/WireLesson2.html>
 
 **Специализация**: Разработка АТС.
 
@@ -261,7 +261,7 @@ java, web, oracle
 
 ##1992-1995 МГГУ, кафедра маркшейдерского дела и геологии
 
-**Ссылки**: <http://msmu.misis.ru/index.php/ru/>
+**Ссылки**: <http://msmu.misis.ru/index.php/ru>
 
 **Специализация**: Автоматизация геолого-маркшейдерских работ.
 
@@ -285,7 +285,7 @@ java, web, oracle
 
 ##1987-1991 Московский Приборостроительный Техникум, факультет программирования
 
-**Ссылки**: <http://mpt.ru/>
+**Ссылки**: <http://mpt.ru>
 
 **Специальность**: техник-математик-программист
 
