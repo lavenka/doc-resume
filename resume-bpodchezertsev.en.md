@@ -67,9 +67,10 @@ Unite network nodes with rabbitmq.
 **Large clients**:
 
 * ASKT <http://ackt.ru>:
-** AFIMALL underground parking (2700 parking places) in "Moscow-city" (Moscow International Business Center) <http://afimall.ru/en/page/about/>
-** Kievsky & Paveletsky railway terminal's parkings in Moscow
-** Kazan Ice Palace "Tatneft-Arena" parking (800 parking place) <http://tatneftarena.ru/arena/o-ledovom-dvortse.html>
+
+1. AFIMALL underground parking (2700 parking places) in "Moscow-city" (Moscow International Business Center) <http://afimall.ru/en/page/about/>
+2. Kievsky & Paveletsky railway terminal's parkings in Moscow
+3. Kazan Ice Palace "Tatneft-Arena" parking (800 parking place) <http://tatneftarena.ru/arena/o-ledovom-dvortse.html>
 
 * Russia state structures of some regions
 
