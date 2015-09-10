@@ -28,7 +28,7 @@ sometimes - bugfixes, updates for some gyro test-beds software
 
 **Links**: <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
  
-**Specialization**: License plate recognition.
+**Specialisation**: License plate recognition.
 
 **Position**: Invited to this startup as chief architect and software developer
 
@@ -78,7 +78,7 @@ Unite network nodes with rabbitmq.
 
 **Links**: <http://www.topsbi.ru>
 
-**Specialization**: Software development
+**Specialisation**: Software development
 
 **Position**: Chief software developer and architect.
 
@@ -128,7 +128,7 @@ Fully made by me part: DB-layer
 
 ##2003-2005 BSS/BFT <http://www.bssys.com>, <http://www.bftcom.com>
 
-**Specialization**: Budget and financial software.
+**Specialisation**: Budget and financial software.
 
 **Position**: Chief software developer.
 
@@ -154,7 +154,7 @@ Description sample <https://github.com/speaking-fish/archive/blob/master/reporte
 
 **Links**: <http://www.quorum.ru>
 
-**Specialization**: Banking software.
+**Specialisation**: Banking software.
 
 **Position**: Chief core developer.
 
@@ -190,7 +190,7 @@ Application server + GUI-client: delphi GUI client (GUI without business logic) 
 
 **Links**: <http://www.altey.ru>
 
-**Specialization**: Clinical Laboratory Automation.
+**Specialisation**: Clinical Laboratory Automation.
 
 **Programming languages**: Delphi 3-5
 
@@ -216,7 +216,7 @@ User support.
 
 **Links**: <http://www.banki.ru/banks/memory/bank/?id=174589>
 
-**Specialization**: Commercial bank.
+**Specialisation**: Commercial bank.
 
 **Position**: Chief software developer.
 
@@ -237,7 +237,7 @@ User support.
 
 **Links**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat> <http://www.aboutphone.info/lib/WireLesson2.html>
 
-**Specialization**: Telecommunication systems development.
+**Specialisation**: Telecommunication systems development.
 
 **Position**: Chief PC developer.
  
@@ -263,7 +263,7 @@ User support.
 
 **Links**: <http://msmu.misis.ru/index.php/ru>
 
-**Specialization**: Automation geological and surveying works.
+**Specialisation**: Automation geological and surveying works.
 
 **Position**: Chief developer.
 
