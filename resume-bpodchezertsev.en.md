@@ -226,7 +226,9 @@ User support.
 
 **OS:** Windows 95-98, DOS.
 
-**Projects**:
+Support clipper-based software.
+
+**New projects**:
 
 * Internal storage support system. Delphi.
 
@@ -241,7 +243,7 @@ User support.
 
 **Position**: Chief PC developer.
  
-**Programmin languages**: Delphi 1-2, assembler, Watcom C/C++, Watcom Optima.
+**Programming languages**: Delphi 1-2, assembler, Watcom C/C++, Watcom Optima.
 
 **Key features**: communications, multithreading, embedded, WinAPI, RxLib, paradox.
 
