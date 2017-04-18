@@ -1,4 +1,4 @@
-#Резюме: Борис Подчезерцев
+# Резюме: Борис Подчезерцев
 
 **Год рождения**: 1972
 
@@ -24,9 +24,24 @@
 
 в разные годы - исправления ошибок и доработки для различных стендов для тестирования гироскопов
 
-#Работы
+# Работы
 
-##2012-2015 РусТелеСис
+# 2015-2016 Сервионика
+
+**Ссылки**: <http://servionica.ru>
+
+**Должность**: Главный инженер.
+
+**Роли**: Архитектор, аналитик, тимлид, разработчик, тестировщик, администратор.
+
+**Языки программирования**: java, python, object pascal(delphi, lazarus).
+
+**Специализация**: MQ, телефония.
+
+**OS**: linux, windows.
+
+
+## 2012-2015 РусТелеСис
 
 **Ссылки**: <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
  
@@ -76,7 +91,7 @@ x86 -> ARM
 
 * Госструктуры некоторых областей
 
-##2005-2011 Tops Business Integrator
+## 2005-2011 Tops Business Integrator
 
 **Ссылки**: <http://www.topsbi.ru>
 
@@ -90,7 +105,7 @@ x86 -> ARM
 
 **Крупные проекты**:
 
-###РосГосСтрах <http://www.rgs.ru>: RGS-AUTO: GUI-клиент для автострахования
+### РосГосСтрах <http://www.rgs.ru>: RGS-AUTO: GUI-клиент для автострахования
 
 java, oracle(+lite), sybase, swing, replication
 
@@ -116,19 +131,19 @@ GUI hell -> MVC, functional-reactive
 
 миграция на generics
 
-###МосЭнерго <http://www.mosenergo.ru>: WEB-ГИС.
+### МосЭнерго <http://www.mosenergo.ru>: WEB-ГИС.
 
 java, javascript, web, RIA, GIS, oracle, COM, надстройка над рендерером (готового веб-интерфейса тогда не было) от АО "Резидент" <http://www.resident.ru> (поставщик карт Яндекса)
 
 Проект в основном выполнен мной
 
-###Альфа-Страхование <http://www.alfastrah.ru>: WEB-клиент для системы Unicus <http://www.systematic.ru/unicus.html>
+### Альфа-Страхование <http://www.alfastrah.ru>: WEB-клиент для системы Unicus <http://www.systematic.ru/unicus.html>
 
 java, web, oracle
 
 Полностью выполнено мною: DB-layer
 
-##2003-2005 БСС/БФТ <http://www.bssys.com>, <http://www.bftcom.com>
+## 2003-2005 БСС/БФТ <http://www.bssys.com>, <http://www.bftcom.com>
 
 **Специализация**: Бюджетно-финансовое ПО.
 
@@ -152,7 +167,7 @@ java, web, oracle
 
 Примерное описание <https://github.com/speaking-fish/archive/blob/master/reporter/reporter.ru.txt>
 
-##2000-2003 Кворум <http://www.quorum.ru>
+## 2000-2003 Кворум <http://www.quorum.ru>
 
 **Специализация**: Банковское ПО.
 
@@ -164,7 +179,7 @@ java, web, oracle
 
 **Крупные проекты**:
 
-###АБС Кворум
+### АБС Кворум
 
 **Крупный рефакторинг (70% мною)**:
 
@@ -180,13 +195,13 @@ java, web, oracle
 
 Экспериментальная GUI-обертка над консольной АБС Кворум.
 
-###Экспериментальный проект Stealth
+### Экспериментальный проект Stealth
 
 **Ссылки**: <http://bankir.ru/dom/threads/31222-%D0%9A%D0%B2%D0%BE%D1%80%D1%83%D0%BC-Next-%28%D0%BE%D0%BD-%D0%B6%D0%B5-Stelth-%D0%BE%D0%BD-%D0%B6%D0%B5-%29?s=96b5c3058568130d00e68c576e431c81>, <http://bankir.ru/dom/threads/66278-Next>
 
 Сервер приложений + GUI-клиент: delphi GUI client (GUI without business logic) <-> non-GUI java client (business logic) <-> java server (business logic).
 
-##1999 Алтей
+## 1999 Алтей
 
 **Ссылки**: <http://www.altey.ru>
 
@@ -212,7 +227,7 @@ java, web, oracle
 
 * Программно-аппаратные работы в различных организациях: АО Медицина <http://www.medicina.ru>, ПК №220, и др.
 
-##1998-1999 КБ «ФИНРОС» Финансовая инициатива
+## 1998-1999 КБ «ФИНРОС» Финансовая инициатива
 
 **Ссылки**: <http://www.banki.ru/banks/memory/bank/?id=174589>
 
@@ -233,7 +248,7 @@ java, web, oracle
 * Различные мелкие утилиты для конвертации, консолидации, печати и проч.
 
 
-##1996-1998 Праис Телеком
+## 1996-1998 Праис Телеком
 
 **Ссылки**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat> <http://www.aboutphone.info/lib/WireLesson2.html>
 
@@ -259,7 +274,7 @@ java, web, oracle
 
 * Доработки встроенного ПО для новой экспериментальной АТС (Watcom C).
 
-##1992-1995 МГГУ, кафедра маркшейдерского дела и геологии
+## 1992-1995 МГГУ, кафедра маркшейдерского дела и геологии
 
 **Ссылки**: <http://msmu.misis.ru/index.php/ru>
 
@@ -283,7 +298,7 @@ java, web, oracle
 
 * ГеоБД-2 – Модуль наблюдения за просадками земной поверхности. Pascal, Fast Vision. Проектирование, разработка.
 
-##1987-1991 Московский Приборостроительный Техникум, факультет программирования
+## 1987-1991 Московский Приборостроительный Техникум, факультет программирования
 
 **Ссылки**: <http://mpt.ru>
 
