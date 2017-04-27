@@ -1,4 +1,4 @@
-#Resume: Boris Podchezertsev
+# Resume: Boris Podchezertsev
 
 **Year of birth**: 1972
 
@@ -18,21 +18,35 @@
 
 **Some freelance jobs**:
 
-1998 - my first program sent to all Russia regions
+1998 year - my first program sent to all Russia regions
 
 sometimes - bugfixes, updates for some gyro test-beds software 
 
-#Jobs
+# Jobs
 
-##2012-2015 RusTeleSys
+## 2015-2016 Servionica
+
+**Links**: <http://servionica.ru>
+
+**Position**: Chief engineer-designer.
+
+**Roles**: System architector, analyst, teamlead, developer, tester, admin.
+
+**Programming languages**: java, python, object pascal(delphi, lazarus).
+
+**Specialisation**: MQ, telephony.
+
+**OS**: linux, windows.
+
+## 2012-2015 RusTeleSys
 
 **Links**: <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
  
 **Specialisation**: License plate recognition.
 
-**Position**: Invited to this startup as chief architect and software developer
+**Position**: Invited to this startup as chief architect and software developer.
 
-**Programming languages**: java, c++, object pascal(delphi, lazarus)
+**Programming languages**: java, c++, object pascal(delphi, lazarus).
 
 **OS**: linux, windows, android
 
@@ -42,15 +56,15 @@ sometimes - bugfixes, updates for some gyro test-beds software
 
 **Migrations**:
 
-delphi -> lazarus, java
+delphi -> lazarus, java.
 
-windows -> linux, android
+windows -> linux, android.
 
-dll -> separate processes
+dll -> separate processes.
 
-x86 -> ARM
+x86 -> ARM.
 
-Total refactoring all systems from bottom to up for stability and upscale:
+Total **refactoring** all systems from bottom to up for stability and upscale:
 
 Global code cleanup.
  
@@ -74,7 +88,7 @@ Unite network nodes with rabbitmq.
 
 * Russia state structures of some regions
 
-##2005-2011 Tops Business Integrator
+## 2005-2011 Tops Business Integrator
 
 **Links**: <http://www.topsbi.ru>
 
@@ -82,51 +96,51 @@ Unite network nodes with rabbitmq.
 
 **Position**: Chief software developer and architect.
 
-**Programming languages**: java, javascript
+**Programming languages**: java, javascript.
 
-**OS**: windows, linux
+**OS**: windows, linux.
 
 **Large projects**:
 
-###RosGosStrakh <http://www.rgs.ru>: RGS-AUTO: Car insurance system, desktop GUI
+### RosGosStrakh <http://www.rgs.ru>: RGS-AUTO: Car insurance system, desktop GUI
 
-java, oracle(+lite), sybase, swing, replication
+*java, oracle(+lite), sybase, swing, replication*
 
 **Some tasks totally implemented by me**:
 
-Client software migration from oracle-lite to sybase
+Client software migration from oracle-lite to sybase.
 
-New GUI subsystems using functional-reactive programming
+New GUI subsystems using functional-reactive programming.
 
-Renovation of insurance reserves calculation subsystem
+Renovation of insurance reserves calculation subsystem.
 
 **Refactoring**:
 
-GUI hell -> MVC, functional-reactive
+GUI hell -> MVC, functional-reactive.
 
-Fixes and speedup for multithreading jobs
+Fixes and speedup for multithreading jobs.
 
-Fixes all database transaction/locking
+Fixes all database transaction/locking.
 
-Total memory leaks fixes
+Total memory leaks fixes.
 
-Lazy calculations
+Lazy calculations.
 
-Migration to generics
+Migration to generics.
 
-###MosEnergo <http://www.mosenergo.ru>: WEB-GIS.
+### MosEnergo <http://www.mosenergo.ru>: WEB-GIS.
 
-java, javascript, web, RIA, GIS, oracle, COM, using renderer (no tiled interface was supported in that time) from <http://www.resident.ru> (Yandex.Maps provider)
+*java, javascript, web, RIA, GIS, oracle, COM, using renderer (no tiled interface was supported in that time) from <http://www.resident.ru> (Yandex.Maps provider).*
 
-The project is mainly made by me
+The project is mainly made by me.
 
-###Alfa-Insurance <http://www.alfastrah.ru>: WEB-client for Unicus insurance system <http://www.systematic.ru/unicus.html>
+### Alfa-Insurance <http://www.alfastrah.ru>: WEB-client for Unicus insurance system <http://www.systematic.ru/unicus.html>
 
 java, web, oracle
 
-Fully made by me part: DB-layer
+Fully made by me part: DB-layer.
 
-##2003-2005 BSS/BFT <http://www.bssys.com>, <http://www.bftcom.com>
+## 2003-2005 BSS/BFT <http://www.bssys.com>, <http://www.bftcom.com>
 
 **Specialisation**: Budget and financial software.
 
@@ -150,7 +164,7 @@ User extensions via Excel VBA.
 
 Description sample <https://github.com/speaking-fish/archive/blob/master/reporter/reporter.ru.txt>
 
-##2000-2003 Quorum
+## 2000-2003 Quorum
 
 **Links**: <http://www.quorum.ru>
 
@@ -158,17 +172,17 @@ Description sample <https://github.com/speaking-fish/archive/blob/master/reporte
 
 **Position**: Chief core developer.
 
-**Programming languages**: java, delphi 1-5, borland pascal 7, assembler, c++
+**Programming languages**: java, delphi 1-5, borland pascal 7, assembler, c++.
 
-**Key features**: heavy WinAPI, DLL, COM, 16/32bit, oracle, multithreading, communications, reverse engineering
+**Key features**: heavy WinAPI, DLL, COM, 16/32bit, oracle, multithreading, communications, reverse engineering.
 
 **Large projects**:
 
-###Automated banking system "Quorum"
+### Automated banking system "Quorum"
 
 **Large refactoring (70% mine)**:
 
-Renovation of unstable terminal version of ABS Quorum. (multithreading, locks, networking)
+Renovation of unstable terminal version of ABS Quorum. (multithreading, locks, networking).
 
 **Fully made by me**:
 
@@ -180,29 +194,29 @@ Total code cleanup for ABS Quorum. (mem cleanup, mem check, null pointers, acces
 
 Experimental GUI-Wrapper for ABS Quorum text mode interface.
 
-###Experimental project "Stealth"
+### Experimental project "Stealth"
 
 **Links**: <http://bankir.ru/dom/threads/31222-%D0%9A%D0%B2%D0%BE%D1%80%D1%83%D0%BC-Next-%28%D0%BE%D0%BD-%D0%B6%D0%B5-Stelth-%D0%BE%D0%BD-%D0%B6%D0%B5-%29?s=96b5c3058568130d00e68c576e431c81>, <http://bankir.ru/dom/threads/66278-Next>
 
 Application server + GUI-client: delphi GUI client (GUI without business logic) <-> non-GUI java client (business logic) <-> java server (business logic).
 
-##1999 Altey Laboratories
+## 1999 Altey Laboratories
 
 **Links**: <http://www.altey.ru>
 
 **Specialisation**: Clinical Laboratory Automation.
 
-**Programming languages**: Delphi 3-5
+**Programming languages**: Delphi 3-5.
 
-**Key features**: WinAPI, COM, DCOM, SQL, BDE, interbase, firebird, DBF, communications, multithreading
+**Key features**: WinAPI, COM, DCOM, SQL, BDE, interbase, firebird, DBF, communications, multithreading.
 
-**OS:** Windows 95-98, NT 3-4.
+**OS**: Windows 95-98, NT 3-4.
 
-**Position**: software developer and system administrator
+**Position**: software developer and system administrator.
 
-Support and setup of harware and sofware;
+Support and setup of harware and sofware.
 
-Integrations with customer's hardware and software;
+Integrations with customer's hardware and software.
 
 User support.
 
@@ -212,7 +226,7 @@ User support.
 
 * Software and hardware works in some medical organizations: Moscow Medicina Clinic <http://en.medicina.ru>, Moscow polyclinic #220, etc.
 
-##1998-1999 Commercial bank «FINROS» Financial Initiative
+## 1998-1999 Commercial bank «FINROS» Financial Initiative
 
 **Links**: <http://www.banki.ru/banks/memory/bank/?id=174589>
 
@@ -224,7 +238,7 @@ User support.
 
 **Key features**: RxLib, Quick Report, dbf, paradox.
 
-**OS:** Windows 95-98, DOS.
+**OS**: Windows 95-98, DOS.
 
 Support clipper-based software.
 
@@ -235,7 +249,7 @@ Support clipper-based software.
 * Utilities for financial document convertations, parsing, union, generation, printing etc.
 
 
-##1996-1998 Prais Telecom
+## 1996-1998 Prais Telecom
 
 **Links**: <http://web.archive.org/web/20011221163510/http://www.aha.ru/~kat> <http://www.aboutphone.info/lib/WireLesson2.html>
 
@@ -261,7 +275,7 @@ Support clipper-based software.
 
 * Further development of embedded software for new experimental telephone exchange system (Watcom C).
 
-##1992-1995 MSMU (Moscow State Mining University), Department of Surveying and Geology
+## 1992-1995 MSMU (Moscow State Mining University), Department of Surveying and Geology
 
 **Links**: <http://msmu.misis.ru/index.php/ru>
 
@@ -277,7 +291,7 @@ Support clipper-based software.
 
 * GeoDB-1. Clipper. Team development.
 
-Fully implemented by me:
+*Fully implemented by me:*
 
 * GeoDB-1 – Modules for build and display/plot profiles and plans for mining. Pascal, Turbo Vision, plotters, printers.
 
@@ -287,14 +301,14 @@ Fully implemented by me:
 
 * GeoDB-2 – Module subsidence monitoring of the Earth's surface. Pascal, Fast Vision.
 
-##1987-1991 Moscow Instrument-building 	Technical College
+## 1987-1991 Moscow Instrument-building Technical College
 
 **Links**: <http://mpt.ru>
 
-**Profession**: technician-mathematician-programmer
+**Profession**: technician-mathematician-programmer.
 
 **Programming languages**: pascal (Turbo Pascal 2-6, Borland Pascal 7), assembler (Turbo assembler 1-2), Clipper’87, DBF, C, gwbasic, DOS batch files.
 
-**Key features**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, Turbo Vision 
+**Key features**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, Turbo Vision. 
  
-**OS**: DOS 2-5, desqview
+**OS**: DOS 2-5, desqview.

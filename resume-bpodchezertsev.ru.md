@@ -20,7 +20,7 @@
 
 **Некоторые работы в свободное от основной работы время**:
 
-1998 - моя первая программа, распространённая по всем регионам РФ
+1998г - моя первая программа, распространённая по всем регионам РФ
 
 в разные годы - исправления ошибок и доработки для различных стендов для тестирования гироскопов
 
@@ -30,7 +30,7 @@
 
 **Ссылки**: <http://servionica.ru>
 
-**Должность**: Главный инженер.
+**Должность**: Главный инженер-конструктор.
 
 **Роли**: Архитектор, аналитик, тимлид, разработчик, тестировщик, администратор.
 
@@ -49,25 +49,25 @@
 
 **Должность**: участие в этом стартапе как главный разработчик и архитектор.
 
-**Языки программирования**: java, c++, object pascal(delphi, lazarus)
+**Языки программирования**: java, c++, object pascal(delphi, lazarus).
 
-**OS**: linux, windows, android
+**OS**: linux, windows, android.
 
-**CPU**: x86, ARM
+**CPU**: x86, ARM.
 
 **Ключевые техники**: multithreading, interprocess communications, networking, opencv, postgresql, sqlite.
 
 **Миграции**:
 
-delphi -> lazarus, java
+delphi -> lazarus, java.
 
-windows -> linux, android
+windows -> linux, android.
 
-dll -> separate processes
+dll -> separate processes.
 
-x86 -> ARM
+x86 -> ARM.
 
-Рефакторинг снизу доверху всех систем на предмет стабильности и масштабирования, в частности:
+**Рефакторинг** снизу доверху всех систем на предмет стабильности и масштабирования, в частности:
 
 Глобальная чистка кода.
  
@@ -95,53 +95,53 @@ x86 -> ARM
 
 **Ссылки**: <http://www.topsbi.ru>
 
-**Специализация**: Разработка ПО
+**Специализация**: Разработка ПО.
 
 **Должность**: ведущий программист, архитектор.
 
-**Языки программирования**: java, javascript
+**Языки программирования**: java, javascript.
 
-**OS**: windows, linux
+**OS**: windows, linux.
 
 **Крупные проекты**:
 
 ### РосГосСтрах <http://www.rgs.ru>: RGS-AUTO: GUI-клиент для автострахования
 
-java, oracle(+lite), sybase, swing, replication
+*java, oracle(+lite), sybase, swing, replication*
 
 **Некоторые выполненные полностью мною подзадачи**:
 
-перевод клиента с oracle-lite на sybase
+Перевод клиента с oracle-lite на sybase.
 
-новые GUI подсистемы с использованием functional-reactive programming
+Новые GUI подсистемы с использованием functional-reactive programming.
 
-обновление подсистемы рассчёта резервов
+Обновление подсистемы рассчёта резервов.
 
 **Рефакторинг**:
 
-GUI hell -> MVC, functional-reactive
+GUI hell -> MVC, functional-reactive.
 
-исправления и ускорение всей работы с multithreading
+Исправления и ускорение всей работы с multithreading.
 
-исправления всей работы с database transaction/locking
+Исправления всей работы с database transaction/locking.
 
-глобальные исправления лишнего использования памяти
+Глобальные исправления лишнего использования памяти.
 
-ленивые вычисления
+Ленивые вычисления.
 
-миграция на generics
+Миграция на generics.
 
 ### МосЭнерго <http://www.mosenergo.ru>: WEB-ГИС.
 
-java, javascript, web, RIA, GIS, oracle, COM, надстройка над рендерером (готового веб-интерфейса тогда не было) от АО "Резидент" <http://www.resident.ru> (поставщик карт Яндекса)
+*java, javascript, web, RIA, GIS, oracle, COM, надстройка над рендерером (готового веб-интерфейса тогда не было) от АО "Резидент" <http://www.resident.ru> (поставщик карт Яндекса).*
 
-Проект в основном выполнен мной
+Проект в основном выполнен мной.
 
 ### Альфа-Страхование <http://www.alfastrah.ru>: WEB-клиент для системы Unicus <http://www.systematic.ru/unicus.html>
 
-java, web, oracle
+*java, web, oracle*
 
-Полностью выполнено мною: DB-layer
+Полностью выполнено мною: DB-layer.
 
 ## 2003-2005 БСС/БФТ <http://www.bssys.com>, <http://www.bftcom.com>
 
@@ -290,7 +290,7 @@ java, web, oracle
 
 * ГеоБД-1. Clipper. Доработки в команде.
 
-Лично мною выполнено:
+*Лично мною выполнено:*
 
 * ГеоБД-1 – Модули построения профилей и планов горных выработок. Pascal, Turbo Vision, плоттеры, принтеры. Проектирование, разработка.
 
@@ -302,7 +302,7 @@ java, web, oracle
 
 **Ссылки**: <http://mpt.ru>
 
-**Специальность**: техник-математик-программист
+**Специальность**: техник-математик-программист.
 
 **Языки программирования**: pascal (Turbo Pascal 2-6, Borland Pascal 7), assembler (Turbo assembler 1-2), Clipper’87, DBF, C, gwbasic, DOS batch files.
 
